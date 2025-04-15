@@ -71,4 +71,10 @@ O **SmartCall** foi desenvolvido como parte de um projeto acadêmico multidiscip
 
 ---
 
+## 🌐 InfinityWare 
+
+[Retorne a Página inicial da empresa](https://github.com/INFTYWARE/.github/blob/main/profile/readme.md)
+
+---
+
 © 2024 PagBus Solutions / InfinityWare. Todos os direitos reservados.
